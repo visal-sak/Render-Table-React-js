@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Kantumruy Pro', sans-serif;
+  font-family: 'Noto Serif Khmer', serif;  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
